@@ -1,0 +1,10 @@
+{
+  "answer": "Combined answer based on agents' responses.",
+  "agents_used": [
+    "arxiv"
+  ],
+  "rationale": "Query mentions arxiv or recent papers; calling ArXiv agent.",
+  "responses": {
+    "ArXiv": "Fetched 3 recent papers related to query."
+  }
+}

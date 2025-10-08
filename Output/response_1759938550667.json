@@ -1,0 +1,32 @@
+[
+  {
+    "query": "what are the controlling content?",
+    "decision": {
+      "agents": [
+        "web"
+      ],
+      "reasoning": "Default routing to Web Search.",
+      "pdf_path": null
+    },
+    "responses": {
+      "Web Search": "Top snippets: "
+    },
+    "final_answer": "Combined answer based on agents' responses.",
+    "timestamp": "50f65c37-a45e-11f0-8590-5acba3331087"
+  },
+  {
+    "query": "what are the controlling content?",
+    "decision": {
+      "agents": [
+        "web"
+      ],
+      "reasoning": "Default routing to Web Search.",
+      "pdf_path": null
+    },
+    "responses": {
+      "Web Search": "Top snippets: "
+    },
+    "final_answer": "Combined answer based on agents' responses.",
+    "timestamp": "52c5cd8b-a45e-11f0-9cc1-5acba3331087"
+  }
+]
