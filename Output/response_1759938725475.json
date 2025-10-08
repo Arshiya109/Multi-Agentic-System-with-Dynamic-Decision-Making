@@ -1,0 +1,62 @@
+[
+  {
+    "query": "what are the controlling content?",
+    "decision": {
+      "agents": [
+        "web"
+      ],
+      "reasoning": "Default routing to Web Search.",
+      "pdf_path": null
+    },
+    "responses": {
+      "Web Search": "Top snippets: "
+    },
+    "final_answer": "Combined answer based on agents' responses.",
+    "timestamp": "50f65c37-a45e-11f0-8590-5acba3331087"
+  },
+  {
+    "query": "what are the controlling content?",
+    "decision": {
+      "agents": [
+        "web"
+      ],
+      "reasoning": "Default routing to Web Search.",
+      "pdf_path": null
+    },
+    "responses": {
+      "Web Search": "Top snippets: "
+    },
+    "final_answer": "Combined answer based on agents' responses.",
+    "timestamp": "52c5cd8b-a45e-11f0-9cc1-5acba3331087"
+  },
+  {
+    "query": "research them in arxiv",
+    "decision": {
+      "agents": [
+        "arxiv"
+      ],
+      "reasoning": "Query mentions arxiv or recent papers; calling ArXiv agent.",
+      "pdf_path": null
+    },
+    "responses": {
+      "ArXiv": "Fetched 3 recent papers related to query."
+    },
+    "final_answer": "Combined answer based on agents' responses.",
+    "timestamp": "8afe468c-a45e-11f0-ae50-5acba3331087"
+  },
+  {
+    "query": "give me detailed notes for it...",
+    "decision": {
+      "agents": [
+        "web"
+      ],
+      "reasoning": "Default routing to Web Search.",
+      "pdf_path": null
+    },
+    "responses": {
+      "Web Search": "Top snippets: "
+    },
+    "final_answer": "Combined answer based on agents' responses.",
+    "timestamp": "bad17cf6-a45e-11f0-8bd0-5acba3331087"
+  }
+]
